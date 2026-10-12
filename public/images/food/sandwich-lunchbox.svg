@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 500" role="img" aria-label="sandwich lunchbox">
+<defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#f3e8ff"/><stop offset="1" stop-color="#e9d5ff"/></linearGradient></defs>
+<rect width="800" height="500" fill="url(#bg)"/>
+<circle cx="680" cy="90" r="120" fill="#fff" opacity=".35"/><circle cx="90" cy="440" r="90" fill="#fff" opacity=".25"/>
+
+  <ellipse cx="400" cy="420" rx="270" ry="24" fill="#000" opacity=".14"/>
+  <rect x="160" y="200" width="480" height="210" rx="28" fill="#0ea5e9"/>
+  <rect x="160" y="200" width="480" height="64" rx="28" fill="#0284c7"/>
+  <rect x="190" y="280" width="420" height="100" rx="18" fill="#f0f9ff"/>
+  <rect x="205" y="292" width="180" height="76" rx="12" fill="#fde68a"/><path d="M215 330 q35 -30 70 0 t70 0" stroke="#d97706" stroke-width="8" fill="none"/>
+  <rect x="400" y="292" width="195" height="76" rx="12" fill="#bbf7d0"/><circle cx="440" cy="330" r="14" fill="#dc2626"/><circle cx="490" cy="322" r="14" fill="#16a34a"/><circle cx="540" cy="334" r="14" fill="#f97316"/>
+  <rect x="360" y="170" width="80" height="34" rx="12" fill="#075985"/>
+</svg>

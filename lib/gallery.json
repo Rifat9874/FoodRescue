@@ -1,0 +1,182 @@
+[
+  {
+    "id": "chicken-biryani",
+    "label": "Chicken Biryani",
+    "category": "Cooked Meals",
+    "src": "/images/food/chicken-biryani.svg"
+  },
+  {
+    "id": "vegetable-curry",
+    "label": "Vegetable Curry",
+    "category": "Cooked Meals",
+    "src": "/images/food/vegetable-curry.svg"
+  },
+  {
+    "id": "lentil-soup",
+    "label": "Lentil Soup",
+    "category": "Cooked Meals",
+    "src": "/images/food/lentil-soup.svg"
+  },
+  {
+    "id": "fried-rice",
+    "label": "Vegetable Fried Rice",
+    "category": "Cooked Meals",
+    "src": "/images/food/fried-rice.svg"
+  },
+  {
+    "id": "pasta-marinara",
+    "label": "Pasta Marinara",
+    "category": "Cooked Meals",
+    "src": "/images/food/pasta-marinara.svg"
+  },
+  {
+    "id": "mixed-khichuri",
+    "label": "Mixed Khichuri",
+    "category": "Cooked Meals",
+    "src": "/images/food/mixed-khichuri.svg"
+  },
+  {
+    "id": "sourdough-loaf",
+    "label": "Sourdough Loaf",
+    "category": "Bakery",
+    "src": "/images/food/sourdough-loaf.svg"
+  },
+  {
+    "id": "butter-croissants",
+    "label": "Butter Croissants",
+    "category": "Bakery",
+    "src": "/images/food/butter-croissants.svg"
+  },
+  {
+    "id": "chocolate-cake",
+    "label": "Chocolate Cake",
+    "category": "Bakery",
+    "src": "/images/food/chocolate-cake.svg"
+  },
+  {
+    "id": "glazed-donuts",
+    "label": "Glazed Donuts",
+    "category": "Bakery",
+    "src": "/images/food/glazed-donuts.svg"
+  },
+  {
+    "id": "dinner-rolls",
+    "label": "Dinner Rolls",
+    "category": "Bakery",
+    "src": "/images/food/dinner-rolls.svg"
+  },
+  {
+    "id": "red-apples",
+    "label": "Red Apples",
+    "category": "Fruits & Vegetables",
+    "src": "/images/food/red-apples.svg"
+  },
+  {
+    "id": "ripe-bananas",
+    "label": "Ripe Bananas",
+    "category": "Fruits & Vegetables",
+    "src": "/images/food/ripe-bananas.svg"
+  },
+  {
+    "id": "fresh-oranges",
+    "label": "Fresh Oranges",
+    "category": "Fruits & Vegetables",
+    "src": "/images/food/fresh-oranges.svg"
+  },
+  {
+    "id": "ripe-tomatoes",
+    "label": "Ripe Tomatoes",
+    "category": "Fruits & Vegetables",
+    "src": "/images/food/ripe-tomatoes.svg"
+  },
+  {
+    "id": "fresh-carrots",
+    "label": "Fresh Carrots",
+    "category": "Fruits & Vegetables",
+    "src": "/images/food/fresh-carrots.svg"
+  },
+  {
+    "id": "biscuit-box",
+    "label": "Biscuit Box",
+    "category": "Packaged Food",
+    "src": "/images/food/biscuit-box.svg"
+  },
+  {
+    "id": "canned-beans",
+    "label": "Canned Beans",
+    "category": "Packaged Food",
+    "src": "/images/food/canned-beans.svg"
+  },
+  {
+    "id": "instant-noodles",
+    "label": "Instant Noodles Pack",
+    "category": "Packaged Food",
+    "src": "/images/food/instant-noodles.svg"
+  },
+  {
+    "id": "breakfast-cereal",
+    "label": "Breakfast Cereal",
+    "category": "Packaged Food",
+    "src": "/images/food/breakfast-cereal.svg"
+  },
+  {
+    "id": "orange-juice",
+    "label": "Orange Juice Bottle",
+    "category": "Beverages",
+    "src": "/images/food/orange-juice.svg"
+  },
+  {
+    "id": "drinking-water",
+    "label": "Drinking Water",
+    "category": "Beverages",
+    "src": "/images/food/drinking-water.svg"
+  },
+  {
+    "id": "masala-tea",
+    "label": "Masala Tea",
+    "category": "Beverages",
+    "src": "/images/food/masala-tea.svg"
+  },
+  {
+    "id": "mango-juice-pack",
+    "label": "Mango Juice Pack",
+    "category": "Beverages",
+    "src": "/images/food/mango-juice-pack.svg"
+  },
+  {
+    "id": "fresh-milk",
+    "label": "Fresh Milk Carton",
+    "category": "Dairy",
+    "src": "/images/food/fresh-milk.svg"
+  },
+  {
+    "id": "yogurt-cups",
+    "label": "Yogurt Cups",
+    "category": "Dairy",
+    "src": "/images/food/yogurt-cups.svg"
+  },
+  {
+    "id": "cheese-wedge",
+    "label": "Cheese Wedge",
+    "category": "Dairy",
+    "src": "/images/food/cheese-wedge.svg"
+  },
+  {
+    "id": "grocery-basket",
+    "label": "Mixed Grocery Basket",
+    "category": "Other",
+    "src": "/images/food/grocery-basket.svg"
+  },
+  {
+    "id": "sandwich-lunchbox",
+    "label": "Packed Lunch Box",
+    "category": "Other",
+    "src": "/images/food/sandwich-lunchbox.svg"
+  },
+  {
+    "id": "snack-hamper",
+    "label": "Snack Hamper",
+    "category": "Other",
+    "src": "/images/food/snack-hamper.svg"
+  }
+]

@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 500" role="img" aria-label="biscuit box">
+<defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#e0f2fe"/><stop offset="1" stop-color="#bae6fd"/></linearGradient></defs>
+<rect width="800" height="500" fill="url(#bg)"/>
+<circle cx="680" cy="90" r="120" fill="#fff" opacity=".35"/><circle cx="90" cy="440" r="90" fill="#fff" opacity=".25"/>
+
+  <ellipse cx="400" cy="420" rx="220" ry="22" fill="#000" opacity=".14"/>
+  <rect x="250" y="130" width="300" height="280" rx="14" fill="#f59e0b"/>
+  <rect x="250" y="130" width="300" height="46" rx="14" fill="#b45309" opacity=".9"/>
+  <rect x="278" y="205" width="244" height="150" rx="16" fill="#fff7ed"/>
+  <circle cx="400" cy="280" r="55" fill="#d9993f"/><circle cx="380" cy="262" r="7" fill="#5b3a29"/><circle cx="420" cy="270" r="7" fill="#5b3a29"/><circle cx="395" cy="305" r="7" fill="#5b3a29"/><circle cx="425" cy="308" r="7" fill="#5b3a29"/><circle cx="370" cy="290" r="7" fill="#5b3a29"/>
+  <rect x="250" y="392" width="300" height="18" rx="9" fill="#000" opacity=".1"/>
+</svg>

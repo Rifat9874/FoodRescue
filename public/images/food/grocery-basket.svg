@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 500" role="img" aria-label="grocery basket">
+<defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#f3e8ff"/><stop offset="1" stop-color="#e9d5ff"/></linearGradient></defs>
+<rect width="800" height="500" fill="url(#bg)"/>
+<circle cx="680" cy="90" r="120" fill="#fff" opacity=".35"/><circle cx="90" cy="440" r="90" fill="#fff" opacity=".25"/>
+
+  <ellipse cx="400" cy="430" rx="260" ry="22" fill="#000" opacity=".14"/>
+  <path d="M210 200 q190 -150 380 0" fill="none" stroke="#a16207" stroke-width="16" stroke-linecap="round"/>
+  <g><circle cx="310" cy="235" r="52" fill="#dc2626"/><circle cx="291.8" cy="216.8" r="11.44" fill="#fff" opacity=".35"/><path d="M296 187 q14 -14 28 0 q-14 14 -28 0Z" fill="#15803d"/></g><g><circle cx="400" cy="215" r="48" fill="#f97316"/><circle cx="383.2" cy="198.2" r="10.56" fill="#fff" opacity=".35"/></g><g><circle cx="480" cy="235" r="50" fill="#facc15"/><circle cx="462.5" cy="217.5" r="11" fill="#fff" opacity=".35"/></g>
+  <path d="M365 260 q12 -80 40 -100 q22 60 5 100Z" fill="#16a34a"/>
+  <path d="M150 260 H650 L600 420 H200 Z" fill="#ca8a04"/>
+  <path d="M177 280 H623" stroke="#a16207" stroke-width="8"/><path d="M189 320 H611" stroke="#a16207" stroke-width="8"/><path d="M201 360 H599" stroke="#a16207" stroke-width="8"/>
+  <path d="M260 262 L266 418" stroke="#a16207" stroke-width="7"/><path d="M340 262 L346 418" stroke="#a16207" stroke-width="7"/><path d="M420 262 L414 418" stroke="#a16207" stroke-width="7"/><path d="M500 262 L494 418" stroke="#a16207" stroke-width="7"/><path d="M580 262 L574 418" stroke="#a16207" stroke-width="7"/>
+</svg>

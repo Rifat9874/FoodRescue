@@ -1,0 +1,24 @@
+{
+  "name": "foodrescue",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "create-admin": "node --env-file=.env.local scripts/create-admin.mjs",
+    "seed": "node --env-file=.env.local scripts/seed.mjs",
+    "seed:clear": "node --env-file=.env.local scripts/seed.mjs --clear",
+    "gallery": "node scripts/generate-gallery.mjs",
+    "photos": "node scripts/fetch-photos.mjs"
+  },
+  "engines": { "node": ">=20.9.0" },
+  "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "jose": "^5.9.6",
+    "mongoose": "^8.9.0",
+    "next": "^15.0.0",
+    "react": "^19.0.0",
+    "react-dom": "^19.0.0"
+  }
+}

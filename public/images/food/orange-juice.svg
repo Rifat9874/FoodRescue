@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 500" role="img" aria-label="orange juice">
+<defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#ffe4e6"/><stop offset="1" stop-color="#fecdd3"/></linearGradient></defs>
+<rect width="800" height="500" fill="url(#bg)"/>
+<circle cx="680" cy="90" r="120" fill="#fff" opacity=".35"/><circle cx="90" cy="440" r="90" fill="#fff" opacity=".25"/>
+
+  <ellipse cx="400" cy="430" rx="120" ry="18" fill="#000" opacity=".14"/>
+  <rect x="365" y="90" width="70" height="38" rx="8" fill="#15803d"/>
+  <path d="M372 128 H428 V180 Q490 215 490 270 V400 Q490 432 458 432 H342 Q310 432 310 400 V270 Q310 215 372 180 Z" fill="#e0f2fe" opacity=".95"/>
+  <path d="M312 262 Q312 230 350 205 H450 Q488 230 488 262 V400 Q488 430 458 430 H342 Q312 430 312 400 Z" fill="#fb923c"/>
+  <rect x="310" y="290" width="180" height="90" fill="#fff7ed"/>
+  <circle cx="400" cy="335" r="26" fill="#fb923c"/>
+  <path d="M335 215 v190" stroke="#fff" stroke-width="9" opacity=".4" stroke-linecap="round"/>
+</svg>

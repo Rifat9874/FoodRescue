@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 500" role="img" aria-label="fresh milk">
+<defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#eff6ff"/><stop offset="1" stop-color="#dbeafe"/></linearGradient></defs>
+<rect width="800" height="500" fill="url(#bg)"/>
+<circle cx="680" cy="90" r="120" fill="#fff" opacity=".35"/><circle cx="90" cy="440" r="90" fill="#fff" opacity=".25"/>
+
+  <ellipse cx="400" cy="430" rx="190" ry="20" fill="#000" opacity=".14"/>
+  <path d="M300 160 L400 90 L500 160 Z" fill="#cbd5e1"/>
+  <rect x="300" y="160" width="200" height="270" rx="6" fill="#f8fafc"/>
+  <rect x="300" y="160" width="200" height="270" rx="6" fill="none" stroke="#cbd5e1" stroke-width="4"/>
+  <rect x="300" y="250" width="200" height="110" fill="#3b82f6"/>
+  <path d="M400 265 C370 305 370 335 400 345 C430 335 430 305 400 265Z" fill="#fff"/>
+  <path d="M312 175 v240" stroke="#fff" stroke-width="8" opacity=".55"/>
+</svg>

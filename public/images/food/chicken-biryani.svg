@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 500" role="img" aria-label="chicken biryani">
+<defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#fff1e0"/><stop offset="1" stop-color="#fed7aa"/></linearGradient></defs>
+<rect width="800" height="500" fill="url(#bg)"/>
+<circle cx="680" cy="90" r="120" fill="#fff" opacity=".35"/><circle cx="90" cy="440" r="90" fill="#fff" opacity=".25"/>
+
+  <ellipse cx="400" cy="410" rx="230" ry="26" fill="#000" opacity=".14"/>
+  <path d="M360 190 q-18 -20 0 -40 q18 -20 0 -40" fill="none" stroke="#fff" stroke-width="7" stroke-linecap="round" opacity="0.55"/><path d="M400 190 q-18 -20 0 -40 q18 -20 0 -40" fill="none" stroke="#fff" stroke-width="7" stroke-linecap="round" opacity="0.47000000000000003"/><path d="M440 190 q-18 -20 0 -40 q18 -20 0 -40" fill="none" stroke="#fff" stroke-width="7" stroke-linecap="round" opacity="0.39"/>
+  <path d="M170 290 Q400 150 630 290 Z" fill="#f59e0b"/>
+  <circle cx="330" cy="250" r="9" fill="#92400e"/><circle cx="400" cy="225" r="9" fill="#dc2626"/><circle cx="470" cy="255" r="9" fill="#92400e"/><circle cx="440" cy="275" r="9" fill="#16a34a"/>
+  <path d="M150 290 H650 Q650 420 400 420 Q150 420 150 290 Z" fill="#fca5a5"/>
+  <path d="M150 290 H650 Q652 304 640 318 H160 Q148 304 150 290 Z" fill="#f8fafc"/>
+  <path d="M190 330 Q400 400 610 330" fill="none" stroke="#fff" stroke-width="6" opacity=".5" stroke-linecap="round"/>
+</svg>

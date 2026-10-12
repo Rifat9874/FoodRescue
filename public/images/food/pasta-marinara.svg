@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 500" role="img" aria-label="pasta marinara">
+<defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#fff1e0"/><stop offset="1" stop-color="#fed7aa"/></linearGradient></defs>
+<rect width="800" height="500" fill="url(#bg)"/>
+<circle cx="680" cy="90" r="120" fill="#fff" opacity=".35"/><circle cx="90" cy="440" r="90" fill="#fff" opacity=".25"/>
+
+  <ellipse cx="400" cy="400" rx="260" ry="30" fill="#000" opacity=".14"/>
+  <ellipse cx="400" cy="340" rx="270" ry="68" fill="#e2e8f0"/>
+  <ellipse cx="400" cy="330" rx="270" ry="68" fill="#f8fafc"/>
+  <ellipse cx="400" cy="330" rx="210" ry="48" fill="#eef2f7"/>
+  <path d="M240 330 Q400 160 560 330 Q400 380 240 330Z" fill="#fcd34d"/><path d="M290 320 Q400 220 510 320 Q400 345 290 320Z" fill="#dc2626"/>
+  <circle cx="380" cy="260" r="8" fill="#16a34a"/><circle cx="430" cy="270" r="8" fill="#16a34a"/>
+  
+</svg>

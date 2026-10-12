@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 500" role="img" aria-label="snack hamper">
+<defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#f3e8ff"/><stop offset="1" stop-color="#e9d5ff"/></linearGradient></defs>
+<rect width="800" height="500" fill="url(#bg)"/>
+<circle cx="680" cy="90" r="120" fill="#fff" opacity=".35"/><circle cx="90" cy="440" r="90" fill="#fff" opacity=".25"/>
+
+  <ellipse cx="400" cy="430" rx="260" ry="22" fill="#000" opacity=".14"/>
+  <path d="M160 230 H640 L600 420 H200 Z" fill="#a16207"/>
+  <path d="M150 215 H650 V245 H150Z" fill="#ca8a04"/>
+  <path d="M250 215 Q250 100 400 100 Q550 100 550 215" fill="none" stroke="#854d0e" stroke-width="16" stroke-linecap="round"/>
+  <rect x="215" y="150" width="90" height="70" rx="10" fill="#f59e0b"/>
+  <rect x="320" y="120" width="70" height="100" rx="12" fill="#dc2626"/><rect x="326" y="150" width="58" height="34" fill="#fee2e2"/>
+  <circle cx="450" cy="180" r="42" fill="#f97316"/>
+  <path d="M510 220 L520 140 L560 140 L570 220Z" fill="#65a30d"/>
+  <path d="M170 290 H630 M180 340 H620 M190 390 H610" stroke="#854d0e" stroke-width="7" opacity=".7"/>
+</svg>
